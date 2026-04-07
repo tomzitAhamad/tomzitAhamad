@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tomzit Ahamad
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&lines=Flutter+Developer;Aspiring+Software+Engineer;CSE+Student;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&lines=Flutter+Developer;Software+Engineer;CSE+Student;Always+Learning" />
 </p>
 
 ---
