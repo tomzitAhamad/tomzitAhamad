@@ -75,6 +75,9 @@
   <a href="mailto:ahamad15-5399@diu.edu.bd"><img src="https://img.shields.io/badge/Email-ahamad15--5399@diu.edu.bd-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/tomzitAhamad"><img src="https://img.shields.io/badge/GitHub-tomzitAhamad-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tomzitahamad/"><img src="https://img.shields.io/badge/LinkedIn-TomzitAhamad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/8801762161370">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
