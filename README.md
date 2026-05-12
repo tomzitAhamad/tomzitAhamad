@@ -94,5 +94,5 @@ I love coding, playing cricket 🏏, and improving myself every day!
 ## 🖌️ Extra UI Animations & Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tomzitAhamad&color=blueviolet&style=flat-square" />  
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge" />
+  <img src="https://tomzitahamad.github.io/portfolio/" />
 </p>
