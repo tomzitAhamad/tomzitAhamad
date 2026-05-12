@@ -12,17 +12,7 @@
   <img src="https://img.shields.io/badge/Location-Bangladesh-red?style=for-the-badge&logo=google-maps" />
   <img src="https://img.shields.io/badge/Status-Actively_Learning-green?style=for-the-badge" />
 </p>
-<p align="center">
 
-  <a href="https://tomzitahamad.github.io/portfolio/" target="_blank">
-
-    <img 
-      src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"
-    />
-
-  </a>
-
-</p>
 
 - 🎓 **Computer Science & Engineering** student  
 - 📱 Specialize in **Flutter (Cross-platform App Development)**  
