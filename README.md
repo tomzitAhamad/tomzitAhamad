@@ -89,24 +89,6 @@ I love coding, playing cricket 🏏, and improving myself every day!
   ⭐ <b>"Consistency is the key to success."</b>
 </p>
 
----
 
-## 🖌️ Extra UI Animations & Badges
 
-<p align="center">
 
-  <img 
-    src="https://komarev.com/ghpvc/?username=tomzitAhamad&color=blueviolet&style=flat-square" 
-    alt="Profile Views"
-  />
-
-  <a href="https://tomzitahamad.github.io/portfolio/" target="_blank">
-
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome"
-      alt="Portfolio Website"
-    />
-
-  </a>
-
-</p>
